@@ -237,4 +237,11 @@ Itulah kurang lebih 50+ perintah dasar Linux yang paling tidak diketahui saat me
 Meskipun masih banyak perintah yang lainnya, paling tidak perintah – perintah tersebut menjadi dasar mengenali perintah Linux lain. Supaya Kalian bisa mengoperasikan sistem operasi LINUX dengan mudah.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-# SOURCE: https://www.niagahoster.co.id/blog/perintah-dasar-linux/
+# OS
+LINUX
+
+------------------------------------------------------------
+# Source:
+- https://www.niagahoster.co.id/blog/perintah-dasar-linux/
+
+-------------------------------------------------------------
